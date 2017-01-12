@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>Mitsubishi.png</file>
+    </qresource>
+    <qresource prefix="/new/Style">
+        <file>playing-video-games.jpg</file>
+    </qresource>
+</RCC>
